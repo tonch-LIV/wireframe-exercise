@@ -1,0 +1,14 @@
+header {
+  background-color: #444444;
+  /* padding: 1em 0; */
+}
+
+nav {
+  display: flex;
+  justify-content: space-evenly; /* even space between individual elements, including edges */
+  align-items: center;           /* vertically centers */
+}
+
+/* body {
+
+} */
